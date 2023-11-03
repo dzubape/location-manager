@@ -1,0 +1,24 @@
+{
+  "name": "@dzubape/location-manager",
+  "version": "1.0.0",
+  "description": "Js module for parsing/assembling URLs from/to string",
+  "main": "location-manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzubape/location-manager.git"
+  },
+  "keywords": [
+    "URL",
+    "split",
+    "location"
+  ],
+  "author": "Petro Dz.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dzubape/location-manager/issues"
+  },
+  "homepage": "https://github.com/dzubape/location-manager#readme"
+}
